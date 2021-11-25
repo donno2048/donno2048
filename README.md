@@ -1,7 +1,18 @@
 # Hi I'm Elisha <img width=25px src="cat1.gif"><img width=27.5px src="cat2.gif"><img width=30px src="cat3.gif">
 <p align="center">
 <img src="https://stats4github.vercel.app/api?username=donno2048&include_all_commits=true"><br/>
-<img src="https://stats4github.vercel.app/api/top-langs/?username=donno2048&langs_count=11&hide=html&layout=compact"><br/>
+<img src="https://stats4github.vercel.app/api/top-langs/?username=donno2048&langs_count=11&hide=html&layout=compact&exclude_repo=Viruses,terminal,Joker,Rosehip-android"><br/>
+<!--
+   - HTML isn't a programming language
+   - Viruses:
+      There is a folder I did not write anything in
+   - terminal:
+      Mostly a clone of Microsoft Terminal
+   - Joker:
+      Auto generated files
+   - Rosehip-android:
+      Auto generated files
+ -->
 <img src="https://github-profile-trophy.vercel.app/?username=donno2048&title=Issues,Repositories,MultiLanguage,Pulls&column=4"><br/>
 <h>Some of my projects:</h><br/>
 <a href="https://github.com/donno2048/polyglots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=donno2048&repo=polyglots" width="200"/></a>
