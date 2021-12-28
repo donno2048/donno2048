@@ -38,6 +38,7 @@
 <a href="https://github.com/donno2048/running-cat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=donno2048&repo=running-cat" width="200"/></a>
 <a href="https://github.com/donno2048/stepng"><img src="https://github-readme-stats.vercel.app/api/pin/?username=donno2048&repo=stepng" width="200"/></a>
 <a href="https://github.com/donno2048/yt2mp4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=donno2048&repo=yt2mp4" width="200"/></a>
+<a href="https://github.com/donno2048/win95.exe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=donno2048&repo=win95.exe" width="200"/></a>
 <br/>
 <img src="https://raw.githubusercontent.com/donno2048/donno2048/dist/snake.svg">
 </p>
