@@ -41,6 +41,8 @@
 <a href="https://github.com/donno2048/win95.exe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=donno2048&repo=win95.exe" width="200"/></a>
 <br/>
 <a href="https://github.com/donno2048/spaceship"><img src="https://github-readme-stats.vercel.app/api/pin/?username=donno2048&repo=spaceship" width="200"/></a>
+<a href="https://github.com/donno2048/zipbomb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=donno2048&repo=zipbomb" width="200"/></a>
+<br/>
 <a href=#><img src="https://raw.githubusercontent.com/donno2048/donno2048/dist/snake.svg"></a>
 </p>
 
