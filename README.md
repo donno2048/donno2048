@@ -46,6 +46,7 @@
 <a href="https://github.com/donno2048/pytray"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=pytray" width="200"/></a>
 <br/>
 <a href="https://github.com/donno2048/link2mp4"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=link2mp4" width="200"/></a>
+<a href="https://github.com/donno2048/pybracket"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=pybracket" width="200"/></a>
 <br/>
 <a href=#><img src="https://raw.githubusercontent.com/donno2048/donno2048/dist/snake.svg"></a>
 </p>
