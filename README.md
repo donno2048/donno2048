@@ -13,7 +13,7 @@
    - Rosehip-android:
       Auto generated files
  -->
-<img src="https://github-profile-trophy.vercel.app/?username=donno2048&title=Issues,Repositories,MultiLanguage,Pulls&column=4"><br/></a>
+<img src="https://github-profile-trophy.vercel.app/?username=donno2048&title=Issues,Repositories,MultiLanguage,Pulls,Stars&column=5"><br/></a>
 <h>Some of my projects:</h><br/>
 <a href="https://github.com/donno2048/polyglots"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=polyglots" width="200"/></a>
 <a href="https://github.com/donno2048/termrec"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=termrec" width="200"/></a>
