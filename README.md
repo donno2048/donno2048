@@ -48,6 +48,7 @@
 <a href="https://github.com/donno2048/zipbomb"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=zipbomb" width="200"/></a>
 <a href="https://github.com/donno2048/czipbomb"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=czipbomb" width="200"/></a>
 <a href="https://github.com/donno2048/jzipbomb"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=jzipbomb" width="200"/></a>
+<a href="https://github.com/donno2048/webnasm"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=webnasm" width="200"/></a>
 <br/>
 <a href=#><img src="https://raw.githubusercontent.com/donno2048/donno2048/dist/snake.svg"></a>
 </p>
