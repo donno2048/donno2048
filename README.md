@@ -52,4 +52,6 @@
 <a href="https://github.com/donno2048/pyc4"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=pyc4" width="200"/></a>
 <a href="https://github.com/donno2048/Debiandroid"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=Debiandroid" width="200"/></a>
 <a href="https://github.com/donno2048/nasm-quine"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=nasm-quine" width="200"/></a>
+<br/>
+<a href="https://github.com/donno2048/printable"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=printable" width="200"/></a>
 </p>
