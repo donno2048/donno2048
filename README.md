@@ -54,4 +54,5 @@
 <a href="https://github.com/donno2048/nasm-quine"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=nasm-quine" width="200"/></a>
 <br/>
 <a href="https://github.com/donno2048/printable"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=printable" width="200"/></a>
+<a href="https://github.com/donno2048/gif-quine"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=gif-quine" width="200"/></a>
 </p>
