@@ -18,7 +18,7 @@
 <a href="https://github.com/donno2048/win95"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=win95" width="200"/></a>
 <a href="https://github.com/donno2048/HTML-PDF-JPEG"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=HTML-PDF-JPEG" width="200"/></a>
 <br/>
-<a href="https://github.com/donno2048/DDos"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=DDos" width="200"/></a>
+<a href="https://github.com/donno2048/snake-bios"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=snake-bios" width="200"/></a>
 <a href="https://github.com/donno2048/pygoto"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=pygoto" width="200"/></a>
 <a href="https://github.com/donno2048/spaceship"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=spaceship" width="200"/></a>
 <a href="https://github.com/donno2048/im2ascii"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=im2ascii" width="200"/></a>
@@ -30,7 +30,7 @@
 <br/>
 <a href="https://github.com/donno2048/zipbomb"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=zipbomb" width="200"/></a>
 <a href="https://github.com/donno2048/czipbomb"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=czipbomb" width="200"/></a>
-<a href="https://github.com/donno2048/jzipbomb"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=jzipbomb" width="200"/></a>
+<a href="https://github.com/donno2048/DDos"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=DDos" width="200"/></a>
 <a href="https://github.com/donno2048/webnasm"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=webnasm" width="200"/></a>
 <br/>
 <a href="https://github.com/donno2048/running-cat"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=running-cat" width="200"/></a>
