@@ -57,4 +57,6 @@
 <a href="https://github.com/donno2048/gif-quine"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=gif-quine" width="200"/></a>
 <a href="https://github.com/donno2048/termrec"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=termrec" width="200"/></a>
 <a href="https://github.com/donno2048/pyas"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=pyas" width="200"/></a>
+<br/>
+<a href="https://github.com/donno2048/snake.pdf"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=snake.pdf" width="200"/></a>
 </p>
