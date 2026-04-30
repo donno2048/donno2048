@@ -1,6 +1,8 @@
 <p align="center">
+<!--
 <a href=#><img src="https://stats4github.vercel.app/api?username=donno2048&include_all_commits=true"><br/>
 <img src="https://stats4github.vercel.app/api/top-langs/?username=donno2048&langs_count=11&hide=html&layout=compact&exclude_repo=Viruses,terminal,Joker,Rosehip-android"><br/>
+-->
 <!--
    - HTML isn't a programming language
    - Viruses:
@@ -12,7 +14,9 @@
    - Rosehip-android:
       Auto generated files
  -->
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=donno2048&title=Issues,Repositories,MultiLanguage,Pulls,Stars&column=5"><br/></a>
+   -->
 <a href="https://github.com/donno2048/snake"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=snake" width="200"/></a>
 <a href="https://github.com/donno2048/snake-bios"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=snake-bios" width="200"/></a>
 <a href="https://github.com/donno2048/win95"><img src="https://stats4github.vercel.app/api/pin/?username=donno2048&repo=win95" width="200"/></a>
